@@ -1,1 +1,1 @@
-# mathe-reposit-rio
+# mathe-repositorio
